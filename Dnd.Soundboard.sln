@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dnd.Soundboard.Server", "Dnd.Soundboard\Server\Dnd.Soundboard.Server.csproj", "{212D4334-9464-492C-BA41-47BACA93F37F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dnd.Soundboard.Client", "Dnd.Soundboard\Client\Dnd.Soundboard.Client.csproj", "{6AE1D8FA-0B37-4193-8EFA-0BE1120C28F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dnd.Soundboard.Shared", "Dnd.Soundboard\Shared\Dnd.Soundboard.Shared.csproj", "{5352D45A-5F9E-4DCA-8725-8B8693E7B5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212D4334-9464-492C-BA41-47BACA93F37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212D4334-9464-492C-BA41-47BACA93F37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212D4334-9464-492C-BA41-47BACA93F37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212D4334-9464-492C-BA41-47BACA93F37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE1D8FA-0B37-4193-8EFA-0BE1120C28F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE1D8FA-0B37-4193-8EFA-0BE1120C28F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE1D8FA-0B37-4193-8EFA-0BE1120C28F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE1D8FA-0B37-4193-8EFA-0BE1120C28F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5352D45A-5F9E-4DCA-8725-8B8693E7B5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5352D45A-5F9E-4DCA-8725-8B8693E7B5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5352D45A-5F9E-4DCA-8725-8B8693E7B5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5352D45A-5F9E-4DCA-8725-8B8693E7B5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC52BA70-8358-4578-B8CE-5475CF50BB87}
+	EndGlobalSection
+EndGlobal
